@@ -1,5 +1,3 @@
-package org.example;
-
 public class OperacionArrays {
     public boolean busca(char c, char[] v) {//METODO PARA BUSCAR
         int a, z, m;

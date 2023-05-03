@@ -1,5 +1,3 @@
-package org.example;
-
 public class Factorial {
     public float factorial(byte n) throws Exception {
         if (n < 0) throw new Exception("Error. El número tiene que ser >=0");

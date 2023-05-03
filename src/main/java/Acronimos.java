@@ -1,5 +1,3 @@
-package org.example;
-
 public class Acronimos {
     public String obtenerAcronimo(String cadena) {
         String resultado = "";
