@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1308e0a-ea1f-47c6-84f5-9856e2771c23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Acronimos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OperacionArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AcronimosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DivisionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FactorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OperacionArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Acronimos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Division.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/OperacionArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/classpath.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/AcronimosTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DivisionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/FactorialTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/OperacionArraysTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/classpath.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AcronimosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AcronimosTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +70,22 @@
       <recent name="buscar_caracter" />
       <recent name="proyecto_acronimos" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AcronimosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test_Contorno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AcronimosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AcronimosTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

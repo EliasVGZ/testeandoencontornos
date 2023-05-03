@@ -10,8 +10,5 @@
         <module name="TestContornos" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Test_Contorno" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
