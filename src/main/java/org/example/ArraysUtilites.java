@@ -1,3 +1,5 @@
+package org.example;
+
 public class ArraysUtilites {
     /**
      * @param c letra a buscar

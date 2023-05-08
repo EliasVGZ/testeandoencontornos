@@ -1,3 +1,4 @@
+import org.example.ArraysUtilites;
 import org.example.Mates;
 
 import org.junit.jupiter.api.Test;
