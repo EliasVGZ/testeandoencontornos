@@ -1,5 +1,9 @@
 public class Acronimos {
-    public String obtenerAcronimo(String cadena) {
+
+
+
+
+    public static String obtenerAcronimo(String cadena) {
         String resultado = "";
         char caracter;
         int n = cadena.length();

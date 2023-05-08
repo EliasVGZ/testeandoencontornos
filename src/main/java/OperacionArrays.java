@@ -1,5 +1,5 @@
 public class OperacionArrays {
-    public boolean busca(char c, char[] v) {//METODO PARA BUSCAR
+    public static boolean busca(char c, char[] v) {//METODO PARA BUSCAR
         int a, z, m;
         a = 0;
         z = v.length - 1;

@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1308e0a-ea1f-47c6-84f5-9856e2771c23" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Mates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AcronimosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AcronimosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Acronimos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Acronimos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OperacionArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperacionArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
