@@ -1,22 +1,22 @@
-import org.junit.Assert;
+import org.example.Mates;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class AcronimosTest {
+class Tests {
 
 
+    Mates division = new Mates();
 
     @Test
     void obtenerAcronimo() {
 
-        String cadena1 = "Sistema de Gestión de Base de Datos";
-        String cadena2 = "Servicio de Mensajería Instantánea";
-        Acronimos acronimo = new Acronimos();
+        String cadena1 = "Sistema Gestión Base Datos";
+        String cadena2 = "Servicio Mensajería Instantánea";
 
-        String resultado1 = "S.G.B.D.";
-        String resultado2 = "S.M.I.";
+        String resultado1 = Mates.obtenerAcronimo(cadena1);
+        String resultado2 = division.obtenerAcronimo(cadena2);
 
         //ASSERT
         String resultadoEsperado1 = "S.G.B.D.";
@@ -28,8 +28,8 @@ class AcronimosTest {
     @Test
     void calcularDivision() throws Exception {
 
-        Division division = new Division();
-        double resultado1 = division.calcularDivision(10, 2);
+
+        double resultado1 = Mates.calcularDivision(10, 2);
         double resultado2 = division.calcularDivision(1500, 3);
 
         //ASSERT
@@ -42,7 +42,7 @@ class AcronimosTest {
     @Test
     void factorial() throws Exception {
 
-        Factorial factorial = new Factorial();
+        Mates factorial = new Mates();
         byte n1 = 5;
         byte n2 = 0;
         byte n3 = 10;
@@ -68,13 +68,13 @@ class AcronimosTest {
     @Test
     void busca() {
 
-        OperacionArrays buscar = new OperacionArrays();
+        Mates buscar = new Mates();
         char[] v = {'a', 'b', 'd', 'e', 'f', 'g'};
         char c1 = 'd';
         char c2 = 'c';
 
-        boolean resultado1 = buscar.busca(c1, v);
-        boolean resultado2 = buscar.busca(c2, v);
+        boolean resultado1 = ArraysUtilites.buscaCaracterenArray(c1, v);
+        boolean resultado2 = ArraysUtilites.buscaCaracterenArray(c2, v);
 
         assertTrue(resultado1);
         assertFalse(resultado2);

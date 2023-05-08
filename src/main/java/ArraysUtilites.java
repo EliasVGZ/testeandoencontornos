@@ -1,5 +1,11 @@
-public class OperacionArrays {
-    public static boolean busca(char c, char[] v) {//METODO PARA BUSCAR
+public class ArraysUtilites {
+    /**
+     * @param c letra a buscar
+     * @param v array que contiene letras
+     * @return true si el char está en el array
+     */
+
+    public static boolean buscaCaracterenArray(char c, char[] v) {//METODO PARA BUSCAR
         int a, z, m;
         a = 0;
         z = v.length - 1;

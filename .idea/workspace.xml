@@ -5,12 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1308e0a-ea1f-47c6-84f5-9856e2771c23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Mates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysUtilites.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Acronimos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Acronimos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperacionArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperacionArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Acronimos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OperacionArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Mates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AcronimosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DivisionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FactorialTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OperacionArraysTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Acronimos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OperacionArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AcronimosTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AcronimosTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DivisionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FactorialTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/OperacionArraysTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +67,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "E:/CD/Test_Contorno/src/main/java",
     "last_opened_file_path": "E:/CD/Test_Contorno",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -62,6 +77,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="ArraysUtilites" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example" />
@@ -74,19 +92,41 @@
       <recent name="proyecto_acronimos" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="AcronimosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Tests.obtenerAcronimo">
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test_Contorno" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AcronimosTest" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.calcularDivision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test_Contorno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="calcularDivision" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.obtenerAcronimo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test_Contorno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="obtenerAcronimo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AcronimosTest" />
+        <item itemvalue="JUnit.Tests.obtenerAcronimo" />
+        <item itemvalue="JUnit.Tests.calcularDivision" />
+        <item itemvalue="JUnit.Tests" />
       </list>
     </recent_temporary>
   </component>
